@@ -1,7 +1,7 @@
 export default function Home() {
 	return (
 		<main>
-			<div>Hello, World!</div>
+			<div>next-react-ts-src-minimal</div>
 		</main>
 	);
 }
